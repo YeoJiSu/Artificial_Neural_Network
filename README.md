@@ -3,7 +3,7 @@
 
 👉🏻 [인공신경망 내용 정리한 블로그](https://velog.io/@diduya/series/Intelligent-System)
 
-### 🦋 BAM 알고리즘
+### 🦋 [BAM](https://github.com/YeoJiSu/Artificial_Neural_Network/blob/main/BAM.py) 알고리즘
 1. 가중치 행렬을 초기화한다.<br>
 입력 벡터를 X, Y 층에 동시에 입력한다.<br>
 비활성화 상태를 -1로, 활성화 상태를 +1로 사용한다. (바이폴라 적용)
@@ -19,7 +19,7 @@
 6. 양쪽 층에서 활성 패턴이 변화를 멈출 때까지 2-5 과정을 반복한다.
 
 
-### 🦋 ART2 알고리즘
+### 🦋 [ART2](https://github.com/YeoJiSu/Artificial_Neural_Network/blob/main/ART2.py) 알고리즘
 
 1. 클러스터(승자) 선택 
 새로운 학습 패턴이 주어지면 **minimum distance**를 승자(클러스터)로 선택한다.<br>
